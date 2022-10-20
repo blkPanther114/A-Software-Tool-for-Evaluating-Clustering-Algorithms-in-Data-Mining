@@ -3,11 +3,11 @@ For the final year’s individual project in my undergraduate studies of Computi
 
 The ppt file provides a brief overview on:
 
-the background of clustering
-comparison of different clustering algorithms
-what functions my software provides with test cases
-advantages my software has comparing to existing tools such as Weka
-evaluating the perfomances of different algorithms
-conlcusion
-limitations, what future works could be done
-All programmes are written in C#, the software is developed under Visual studio environment using Windows Forms.
+1.the background of clustering
+2.comparison of different clustering algorithms
+3.what functions my software provides with test cases
+4.advantages my software has comparing to existing tools such as Weka
+5.evaluating the perfomances of different algorithms
+6.conlcusion
+7.limitations, what future works could be done
+
