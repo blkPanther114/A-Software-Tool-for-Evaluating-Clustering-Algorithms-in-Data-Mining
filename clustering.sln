@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clustering", "clustering.csproj", "{5C97B76F-ECCB-4520-9F9B-FA85C7B78631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C97B76F-ECCB-4520-9F9B-FA85C7B78631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C97B76F-ECCB-4520-9F9B-FA85C7B78631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C97B76F-ECCB-4520-9F9B-FA85C7B78631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C97B76F-ECCB-4520-9F9B-FA85C7B78631}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DF4B677-6B4C-43B9-89C5-8DF6CD4943D6}
+	EndGlobalSection
+EndGlobal
